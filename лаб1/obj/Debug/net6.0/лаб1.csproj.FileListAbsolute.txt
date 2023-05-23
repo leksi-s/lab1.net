@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\лаб1\лаб1\bin\Debug\net6.0\лаб1.exe
+C:\Users\Admin\source\repos\лаб1\лаб1\bin\Debug\net6.0\лаб1.deps.json
+C:\Users\Admin\source\repos\лаб1\лаб1\bin\Debug\net6.0\лаб1.runtimeconfig.json
+C:\Users\Admin\source\repos\лаб1\лаб1\bin\Debug\net6.0\лаб1.dll
+C:\Users\Admin\source\repos\лаб1\лаб1\bin\Debug\net6.0\лаб1.pdb
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.dll
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\ref\лаб1.dll
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.pdb
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\лаб1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\лаб1\лаб1\obj\Debug\net6.0\refint\лаб1.dll
